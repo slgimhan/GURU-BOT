@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
-global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.botname = '𝙶𝙸𝙼 |: 𝙱𝙰𝙱𝙰𝙷 .ヤ '
+global.premium = '𝚏𝚊𝚕𝚜𝚎'
+global.packname = '𝙶𝙸𝙼 |:' 
 global.author = '@Asliguru' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
