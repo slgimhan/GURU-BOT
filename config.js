@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94713317339', '𝙶𝙸𝙼 |:𝙱𝙰𝙱𝙰𝙷.ヤ', true],
-  ['94713317339', '𝙶𝙸𝙼 |:𝙱𝙰𝙱𝙰𝙷', true], 
+  ['94778045317', 'MRxKING', true],
+  ['94778045317', 'MRxKING', true], 
   [''] 
 ] //Number of owners
 
@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙶𝙸𝙼 |: 𝙱𝙰𝙱𝙰𝙷 .ヤ '
+global.botname = 'MRxKING'
 global.premium = '𝚏𝚊𝚕𝚜𝚎'
-global.packname = '𝙶𝙸𝙼 |:' 
+global.packname = 'MRxKING' 
 global.author = '@Asliguru' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
